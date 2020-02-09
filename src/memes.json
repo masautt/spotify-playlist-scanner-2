@@ -1,0 +1,392 @@
+{
+    "playlists": {
+      "href": "https://api.spotify.com/v1/search?query=memes&type=playlist&offset=0&limit=10",
+      "items": [
+        {
+          "collaborative": false,
+          "description": "Memes Songs from Rick Astley, Smash Mouth, Eminem, Kevin MacLeod, Drake, Vitas and Eiffel 65",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/7K2vXBxUCL60FR3iDgtQzO"
+          },
+          "href": "https://api.spotify.com/v1/playlists/7K2vXBxUCL60FR3iDgtQzO",
+          "id": "7K2vXBxUCL60FR3iDgtQzO",
+          "images": [
+            {
+              "height": null,
+              "url": "https://i.scdn.co/image/ab67706c0000da845ff9dc81cf3a9b911dbbc0d5",
+              "width": null
+            }
+          ],
+          "name": "Memes Songs",
+          "owner": {
+            "display_name": "radyaanargya",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/radyaanargya"
+            },
+            "href": "https://api.spotify.com/v1/users/radyaanargya",
+            "id": "radyaanargya",
+            "type": "user",
+            "uri": "spotify:user:radyaanargya"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "MzcwLDYyZTI4YjhiODMzYTg1MTA0NGI0YTUxZGI1ZWY3ZmViZTc5NWMyYjE=",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/7K2vXBxUCL60FR3iDgtQzO/tracks",
+            "total": 212
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:7K2vXBxUCL60FR3iDgtQzO"
+        },
+        {
+          "collaborative": false,
+          "description": "Songs from the best memes on the internet",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/01FpvvzMoezZtrOgOGHhMH"
+          },
+          "href": "https://api.spotify.com/v1/playlists/01FpvvzMoezZtrOgOGHhMH",
+          "id": "01FpvvzMoezZtrOgOGHhMH",
+          "images": [
+            {
+              "height": null,
+              "url": "https://pl.scdn.co/images/pl/default/1aa95618e971211ae8d4db6ff9bf2d734f026639",
+              "width": null
+            }
+          ],
+          "name": "Memes ( ͡° ͜ʖ ͡°)",
+          "owner": {
+            "display_name": "Urban Playlister",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/fawx7zowavk43xjmsa3hlo9j9"
+            },
+            "href": "https://api.spotify.com/v1/users/fawx7zowavk43xjmsa3hlo9j9",
+            "id": "fawx7zowavk43xjmsa3hlo9j9",
+            "type": "user",
+            "uri": "spotify:user:fawx7zowavk43xjmsa3hlo9j9"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "NDU0LDA5YjVmY2VhZmMwMzZkMzdhNTI2NDRhNTNmMGJiNWNmNmEwYTE1OGE=",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/01FpvvzMoezZtrOgOGHhMH/tracks",
+            "total": 75
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:01FpvvzMoezZtrOgOGHhMH"
+        },
+        {
+          "collaborative": false,
+          "description": "",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/4bLpFSgKGjOOR1gQGEVfQc"
+          },
+          "href": "https://api.spotify.com/v1/playlists/4bLpFSgKGjOOR1gQGEVfQc",
+          "id": "4bLpFSgKGjOOR1gQGEVfQc",
+          "images": [
+            {
+              "height": null,
+              "url": "https://pl.scdn.co/images/pl/default/5651a25d8ca43b118b237e6bec2afcd4a04ee711",
+              "width": null
+            }
+          ],
+          "name": "Memes/Funny Songs",
+          "owner": {
+            "display_name": "natnano55",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/natnano55"
+            },
+            "href": "https://api.spotify.com/v1/users/natnano55",
+            "id": "natnano55",
+            "type": "user",
+            "uri": "spotify:user:natnano55"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "NTIxLGFmZTUwYzI3NDUwOGQ1NmY4NzQyYjJiNWYyMjQxZGU5M2NjODVjYmQ=",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/4bLpFSgKGjOOR1gQGEVfQc/tracks",
+            "total": 472
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:4bLpFSgKGjOOR1gQGEVfQc"
+        },
+        {
+          "collaborative": false,
+          "description": "Best clean meme songs! Latest additions: He&#x27;s a Pirate, Ma Chouchoute, Crystal Dolphin, Just did a bad thing, Omae Wa Mou, Moskau, Run",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/2gcMBHjlrNMLGGvlOl8ysz"
+          },
+          "href": "https://api.spotify.com/v1/playlists/2gcMBHjlrNMLGGvlOl8ysz",
+          "id": "2gcMBHjlrNMLGGvlOl8ysz",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://mosaic.scdn.co/640/ab67616d0000b27335010b7368af2e4968d46f22ab67616d0000b273bfa2701e56e8908d27c2b422ab67616d0000b273d4eba34bd4ccf2d51d25e21cab67616d0000b273eba0fa4b5878ed8afdb65964",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://mosaic.scdn.co/300/ab67616d0000b27335010b7368af2e4968d46f22ab67616d0000b273bfa2701e56e8908d27c2b422ab67616d0000b273d4eba34bd4ccf2d51d25e21cab67616d0000b273eba0fa4b5878ed8afdb65964",
+              "width": 300
+            },
+            {
+              "height": 60,
+              "url": "https://mosaic.scdn.co/60/ab67616d0000b27335010b7368af2e4968d46f22ab67616d0000b273bfa2701e56e8908d27c2b422ab67616d0000b273d4eba34bd4ccf2d51d25e21cab67616d0000b273eba0fa4b5878ed8afdb65964",
+              "width": 60
+            }
+          ],
+          "name": "MEMES",
+          "owner": {
+            "display_name": "Ethan",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/pz56wysc7zl8cykhkfv8hhhn5"
+            },
+            "href": "https://api.spotify.com/v1/users/pz56wysc7zl8cykhkfv8hhhn5",
+            "id": "pz56wysc7zl8cykhkfv8hhhn5",
+            "type": "user",
+            "uri": "spotify:user:pz56wysc7zl8cykhkfv8hhhn5"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "MTk3LGY2NzNiMDgzMTJmYWZhYWFiOTNmZjYwZDRkNDI2NTgxMzNiODM4NGE=",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/2gcMBHjlrNMLGGvlOl8ysz/tracks",
+            "total": 86
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:2gcMBHjlrNMLGGvlOl8ysz"
+        },
+        {
+          "collaborative": false,
+          "description": "*&#x27;`Follow to bring Pewds back`&#x27;*",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/5utGNW5n2uWgjWRXBBE4De"
+          },
+          "href": "https://api.spotify.com/v1/playlists/5utGNW5n2uWgjWRXBBE4De",
+          "id": "5utGNW5n2uWgjWRXBBE4De",
+          "images": [
+            {
+              "height": null,
+              "url": "https://i.scdn.co/image/ab67706c0000da845e02aa0355498a9ed056795c",
+              "width": null
+            }
+          ],
+          "name": "Memes Playlist 2020",
+          "owner": {
+            "display_name": "kingfinnigan",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/kingfinnigan"
+            },
+            "href": "https://api.spotify.com/v1/users/kingfinnigan",
+            "id": "kingfinnigan",
+            "type": "user",
+            "uri": "spotify:user:kingfinnigan"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "MTgwNCw5ZDdlZDA5NGQ3NmRhZDdiNDI1Njg2MmNiMjIxY2FmYmFiOThiZDkx",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/5utGNW5n2uWgjWRXBBE4De/tracks",
+            "total": 1663
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:5utGNW5n2uWgjWRXBBE4De"
+        },
+        {
+          "collaborative": false,
+          "description": "Hit memes song like Ultimate(Denzel Curry),Never Gonna Give You Up(Rick Astley),All Star(Smash Mouth),Mans Not Hot(Big Shaq),Why You Always Lying(Nicholas Fraser),Take On Me (A-ha),Friday(Rebbeca Black),Ocean Man(Ween),PPAP(PikoTaro),DeJa Vu(Initial D),Africa(Toto) This playlist is MeMeTastic",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/61A3OGiQoXpX4pf90x1oZj"
+          },
+          "href": "https://api.spotify.com/v1/playlists/61A3OGiQoXpX4pf90x1oZj",
+          "id": "61A3OGiQoXpX4pf90x1oZj",
+          "images": [
+            {
+              "height": null,
+              "url": "https://pl.scdn.co/images/pl/default/c0420bb8afe8b90638eb589a1bf5b3bb951cd2ae",
+              "width": null
+            }
+          ],
+          "name": "Memes Song",
+          "owner": {
+            "display_name": "Rafadynashmidan",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/e9uw9jih9ops02u814c5lsqx6"
+            },
+            "href": "https://api.spotify.com/v1/users/e9uw9jih9ops02u814c5lsqx6",
+            "id": "e9uw9jih9ops02u814c5lsqx6",
+            "type": "user",
+            "uri": "spotify:user:e9uw9jih9ops02u814c5lsqx6"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "MzMwLGM5OGM2YzRlMzM0YzhkZGE3MjAxZjcxODBiNjI1NGI5YWIyMjYwYjY=",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/61A3OGiQoXpX4pf90x1oZj/tracks",
+            "total": 204
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:61A3OGiQoXpX4pf90x1oZj"
+        },
+        {
+          "collaborative": false,
+          "description": "If you have meme song requests or comments, you can send them from twitter @pitch_wm1",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/4uExCdR08hLWkVrvAlP7Z5"
+          },
+          "href": "https://api.spotify.com/v1/playlists/4uExCdR08hLWkVrvAlP7Z5",
+          "id": "4uExCdR08hLWkVrvAlP7Z5",
+          "images": [
+            {
+              "height": null,
+              "url": "https://pl.scdn.co/images/pl/default/2e21d27e7e8c940122988203c764a49b669f60ec",
+              "width": null
+            }
+          ],
+          "name": "Memes Yeet",
+          "owner": {
+            "display_name": "Tamay Kurutluoglu",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/21fwwijpm7dumaoa7ua3ivx7y"
+            },
+            "href": "https://api.spotify.com/v1/users/21fwwijpm7dumaoa7ua3ivx7y",
+            "id": "21fwwijpm7dumaoa7ua3ivx7y",
+            "type": "user",
+            "uri": "spotify:user:21fwwijpm7dumaoa7ua3ivx7y"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "Mzk4LDUwOWQ0YzM5MjVhZjEwNzhhMGNjOTBhNzVmZTYyZmNlMDYyNzFlN2I=",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/4uExCdR08hLWkVrvAlP7Z5/tracks",
+            "total": 234
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:4uExCdR08hLWkVrvAlP7Z5"
+        },
+        {
+          "collaborative": false,
+          "description": "Blast this while your storming area 51",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/59CgHlqoUxnHtKVgKCfgZw"
+          },
+          "href": "https://api.spotify.com/v1/playlists/59CgHlqoUxnHtKVgKCfgZw",
+          "id": "59CgHlqoUxnHtKVgKCfgZw",
+          "images": [
+            {
+              "height": null,
+              "url": "https://pl.scdn.co/images/pl/default/4a615dd8f97abe8394f877352f8bda76d901a860",
+              "width": null
+            }
+          ],
+          "name": "Memes",
+          "owner": {
+            "display_name": "Jillian Tracey",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/jillianrosetracey"
+            },
+            "href": "https://api.spotify.com/v1/users/jillianrosetracey",
+            "id": "jillianrosetracey",
+            "type": "user",
+            "uri": "spotify:user:jillianrosetracey"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "MjYyMCwxN2NkZDQ1ZDFmNzE5NTFiNjZlMzMxNWRkZGNhNWE0ZWYyNjE1NDRk",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/59CgHlqoUxnHtKVgKCfgZw/tracks",
+            "total": 543
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:59CgHlqoUxnHtKVgKCfgZw"
+        },
+        {
+          "collaborative": false,
+          "description": "While you&#x27;re here, why not check out my channel? I make Animation memes and plan to make better ones soon! :) (OkieDokie is the name lmao)",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/213BtsufoqlnMyJuNAY219"
+          },
+          "href": "https://api.spotify.com/v1/playlists/213BtsufoqlnMyJuNAY219",
+          "id": "213BtsufoqlnMyJuNAY219",
+          "images": [
+            {
+              "height": null,
+              "url": "https://pl.scdn.co/images/pl/default/cbf400ed11164bf92043423616655a77153eb3b1",
+              "width": null
+            }
+          ],
+          "name": "Animation memes",
+          "owner": {
+            "display_name": "missavv7",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/missavv7"
+            },
+            "href": "https://api.spotify.com/v1/users/missavv7",
+            "id": "missavv7",
+            "type": "user",
+            "uri": "spotify:user:missavv7"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "NTAwLDc2ZTM5YThhYmFiYWYwYmVkYTQ1N2NjYzU3MjYyZTY5YmRkZjNhMmM=",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/213BtsufoqlnMyJuNAY219/tracks",
+            "total": 461
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:213BtsufoqlnMyJuNAY219"
+        },
+        {
+          "collaborative": false,
+          "description": "&quot;creeper aw man&quot; &quot;im a muffin and its muffin time&quot; &quot;beep beep im a sheep&quot; &quot;BIG CHUNGUS&quot; and crab rave are included in this amazing meme filled playlist.",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/1kZK009ROm34EQ2m8ZDZhd"
+          },
+          "href": "https://api.spotify.com/v1/playlists/1kZK009ROm34EQ2m8ZDZhd",
+          "id": "1kZK009ROm34EQ2m8ZDZhd",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://mosaic.scdn.co/640/ab67616d0000b273472bffac1ba2b106d650dc0bab67616d0000b27390314e59e26bd125d2c7be5fab67616d0000b273a0a6306033ab5306e4b9cedfab67616d0000b273e3d8d7f6c47cc20a8f1e6eff",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://mosaic.scdn.co/300/ab67616d0000b273472bffac1ba2b106d650dc0bab67616d0000b27390314e59e26bd125d2c7be5fab67616d0000b273a0a6306033ab5306e4b9cedfab67616d0000b273e3d8d7f6c47cc20a8f1e6eff",
+              "width": 300
+            },
+            {
+              "height": 60,
+              "url": "https://mosaic.scdn.co/60/ab67616d0000b273472bffac1ba2b106d650dc0bab67616d0000b27390314e59e26bd125d2c7be5fab67616d0000b273a0a6306033ab5306e4b9cedfab67616d0000b273e3d8d7f6c47cc20a8f1e6eff",
+              "width": 60
+            }
+          ],
+          "name": "memes",
+          "owner": {
+            "display_name": "Tristenpowers",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/9x0un0o29c8t5px7jm35y84uu"
+            },
+            "href": "https://api.spotify.com/v1/users/9x0un0o29c8t5px7jm35y84uu",
+            "id": "9x0un0o29c8t5px7jm35y84uu",
+            "type": "user",
+            "uri": "spotify:user:9x0un0o29c8t5px7jm35y84uu"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "MTA5LDhlNTQzY2QyNTYzMTM2ZDYyOGFiOTlhMTEyODczZDBiMWIxYTJmOGI=",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/1kZK009ROm34EQ2m8ZDZhd/tracks",
+            "total": 32
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:1kZK009ROm34EQ2m8ZDZhd"
+        }
+      ],
+      "limit": 10,
+      "next": "https://api.spotify.com/v1/search?query=memes&type=playlist&offset=10&limit=10",
+      "offset": 0,
+      "previous": null,
+      "total": 24368
+    }
+  }

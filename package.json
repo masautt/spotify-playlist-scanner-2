@@ -1,0 +1,27 @@
+{
+  "name": "spotify-playlist-scanner-2",
+  "version": "1.0.0",
+  "description": "Scan spotify playlists with this typescript package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node ./lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masautt/spotify-playlist-scanner-2.git"
+  },
+  "author": "masautt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masautt/spotify-playlist-scanner-2/issues"
+  },
+  "homepage": "https://github.com/masautt/spotify-playlist-scanner-2#readme",
+  "devDependencies": {
+    "@types/node": "^13.7.0",
+    "dotenv": "^8.2.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
